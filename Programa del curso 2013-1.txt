@@ -1,0 +1,98 @@
+UNIVERSIDAD ICESI 
+
+
+CURSO: Aplicaciones Móviles. 
+CÓDIGO: 09688. 
+PLAN: Ingeniería Telemática, Ingeniería de Sistemas, Diseño de Medios Interactivos. 
+INTENSIDAD HORARIA: 3 Horas/Semana. 
+PERIODO ACADÉMICO: 2013-1.
+
+
+ANTECEDENTES
+
+No es un secreto la importancia que tiene en este momento la telefonía celular en el mundo. Particularmente en Colombia, el número de abonados supera ampliamente el número de líneas fijas y la telefonía móvil representa un porcentaje importante del PIB.
+
+Esta realidad, junto con las crecientes capacidades (en la mayoría de los casos no aprovechadas) de los teléfonos móviles en manos de los usuarios, permite vislumbrar el enorme potencial existente en el área de servicios de valor agregado para telefonía móvil. 
+
+Este curso tiene dos objetivos. En primer lugar, brindar un conjunto de conocimientos y herramientas técnicas introductorias que permitan al estudiante desarrollar aplicaciones móviles basadas en diversas plataformas. En segundo lugar, estudiar las aplicaciones móviles desde una perspectiva de mercado: identificar oportunidades e ideas promisorias, investigar casos de éxito (y fracaso), estudiar los costos y otras barreras de entrada al mercado, y analizar las aplicaciones desde el punto de vista del usuario final. 
+
+
+DESCRIPCIÓN
+
+Este curso es una introducción al desarrollo de aplicaciones móviles, y pretende dotar al estudiante de algunas herramientas técnicas y comerciales necesarias para desarrollar aplicaciones móviles como parte de un esfuerzo académico o de negocios. 
+
+También pretende incentivar el desarrollo de nuevos servicios, productos y negocios móviles que respondan a necesidades reales del mercado (tanto local como internacional), creando al mismo tiempo el sentido crítico necesario para evitar la creación de nuevos negocios cuando estos no tienen sus bases técnicas y comerciales lo suficientemente sólidas. 
+
+
+OBJETIVOS
+
+General
+
+Ofrecerle al estudiante las herramientas necesarias para desarrollar aplicaciones y servicios móviles. Al finalizar el curso, estará en capacidad de evaluar un problema como oportunidad de mercado, seleccionar las tecnologías que mejor se ajusten a los requerimientos, y diseñar y desarrollar aplicaciones y servicios móviles que den respuesta a la situación.
+
+Terminales
+
+1.	Frente a una situación práctica, real o hipotética, el estudiante estará en capacidad de realizar un análisis de mercado preliminar para una aplicación o servicio móvil.
+
+2.	El estudiante estará en capacidad de describir las características, requerimientos y limitaciones de las aplicaciones y servicios móviles, de acuerdo a la situación que deseen resolver y a las restricciones de los dispositivos disponibles para el desarrollo.
+
+3.	El estudiante estará en capacidad de desarrollar una aplicación móvil que pueda dar respuesta a la situación.
+
+
+ESTRATEGIA PEDAGÓGICA
+
+Como ya se mencionó, el curso tiene dos componentes: el técnico y el comercial. Sin embargo, tal como sucede en los negocios reales, estos componentes no pueden tratarse por separado. Es por eso que los temas del curso serán abordados desde los dos puntos de vista. 
+
+El curso esta dividido en tres ejes temáticos: Diseño de aplicaciones y servicios móviles, Desarrollo de negocios y Desarrollo de software. Se trabajarán proyectos de desarrollo, que partirán desde su diseño conceptual y modelo de negocio, hasta su demostración en vivo en dispositivos móviles reales (dentro de lo posible). Se tratarán temas de forma concurrente, en especial los relacionados con desarrollo de negocios.
+
+Se espera que los estudiantes participen activamente en el proceso de apropiación del conocimiento, lo que implica ir más allá de los contenidos y recursos propuestos en esta descripción. Se incentivarán las discusiones sobre temas afines al curso: nuevos productos y tecnologías, noticias del medio, casos de éxito, etc. Así como los aportes propios del estudiante, como presentaciones libres y artículos de interés.
+
+
+CONTENIDO
+
+Diseño de aplicaciones y servicios móviles
+
+Fundamentos de movilidad
+Experiencia de usuario y buenas prácticas
+
+Desarrollo de negocios
+
+Modelo de negocio
+Mercado de aplicaciones móviles
+
+Desarrollo de software
+
+Entorno de desarrollo
+Arquitectura y componentes
+Localización
+Almacenamiento
+Sensores
+Servicios web
+Backend en la nube
+Animación
+Conectividad
+
+
+EVALUACIÓN 
+
+Informes		20%
+Talleres		35%
+Proyecto final		35%
+Presentaciones		10%
+
+
+PROFESOR 
+
+Leonardo Vargas Bernal
+Grupo de Investigación en Informática y Telecomunicaciones i2T
+Facultad de Ingeniería, Universidad Icesi
+Tel: 5552334 ext. 8825 - 8672
+E-mail: lvargas@icesi.edu.co
+
+
+BIBLIOGRAFÍA 
+
+Designing the Mobile User Experience – Barbara Ballard.
+Professional Android 4 Application Development – Meier.
+How to Build a Startup. The Lean LaunchPad – Udacity Online Course.
+
